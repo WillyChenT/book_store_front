@@ -14,14 +14,14 @@
 
 ### 截圖
 
-![](C:\Users\Ming\Desktop\bookStore內容\1.png)
+![1](./picture/1.png)
 
-![2](C:\Users\Ming\Desktop\bookStore內容\2.png)
+![2](./picture/2.png)
 
-![3](C:\Users\Ming\Desktop\bookStore內容\3.png)
+![3](./picture/3.png)
 
-![4](C:\Users\Ming\Desktop\bookStore內容\4.png)
+![4](./picture/4.png)
 
-![5](C:\Users\Ming\Desktop\bookStore內容\5.png)
+![5](./picture/5.png)
 
-![6](C:\Users\Ming\Desktop\bookStore內容\6.png)
+![6](./picture/6.png)
